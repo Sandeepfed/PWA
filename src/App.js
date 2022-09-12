@@ -112,6 +112,7 @@ function App() {
             <Button variant="primary">Go somewhere</Button>
           </Card.Body>
         </Card>
+        
         </Col>
         <Col>
         <Card style={{ width: '18rem' }}>
