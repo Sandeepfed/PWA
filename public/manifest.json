@@ -24,8 +24,11 @@
       "purpose":"Any maskable"
     }
   ],
-  "start_url": ".",
+  "scope" : ".",
+  "start_url": ".maskable",
   "display": "standalone",
+  "prefer_related_applications": "true",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
+
