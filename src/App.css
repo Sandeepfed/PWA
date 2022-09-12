@@ -1,3 +1,6 @@
+
+
+
 .App {
   text-align: center;
 }
@@ -11,6 +14,17 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+a.navbar-brand img {
+  width: 232px;
+}
+.me-auto.navbar-nav {
+  margin-left: auto;
+  text-align: right;
+  margin-right: 0 !important;
+}
+.carousel-item img {
+  height: 550px;
 }
 
 .App-header {
